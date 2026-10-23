@@ -31,7 +31,7 @@ window.AKPROP_PROPIEDADES = [
     slug:   "cajaravilla",
     barrio: "Villa Luro · CABA",
     titulo: "PH en 3 plantas, entrada independiente",
-    precio: "USD 214.000",
+    precio: "USD 204.000",
     specs:  "4 amb · 3 plantas · Garaje climatizado · Cero expensas",
     url:    "https://cajaravilla.akprop.com.ar",
     img:    "https://cajaravilla.akprop.com.ar/assets/img/hero/hero-fachada.webp",
